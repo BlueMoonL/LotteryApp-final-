@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_200">#00b2ed</color>
+    <color name="purple_500">#3a5994</color>
+    <color name="purple_700">#63C6F3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ballStroke">#3F51B5</color>
+    <color name="ballSolid">#03A9F4</color>
+    <color name="skyBackground">#3C3F41</color>
+
+    <color name="yellow_ball">#FBC400</color>   //한자리
+    <color name="blue_ball">#69C8F2</color>     //10대
+    <color name="red_ball">#FF7272</color>      //20대
+    <color name="gray_ball">#AAAAAA</color>     //30대
+    <color name="green_ball">#B0D840</color>    //40대
+
+</resources>
